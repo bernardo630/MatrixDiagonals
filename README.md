@@ -1,15 +1,11 @@
-Perfeito Vou te preparar um **README.md** profissional para o projeto **MatrizDiagonais**.
-
-Aqui está o arquivo completo:
-
 ```markdown
-# MatrizDiagonais
+#MatrizDiagonais
 
 Programa em **C# (Console Application)** para trabalhar com matrizes quadradas **NxN**, oferecendo cálculos avançados das diagonais, identificação de matriz identidade, estatísticas adicionais e opções de entrada manual, aleatória ou predefinida.
 
 ---
 
-## Funcionalidades
+#Funcionalidades
 
 - **Entrada de matrizes**
   - Inserção manual (usuário digita cada elemento).
