@@ -1,11 +1,11 @@
 ```markdown
-#MatrizDiagonais
+**MatrizDiagonais**
 
-Programa em **C# (Console Application)** para trabalhar com matrizes quadradas **NxN**, oferecendo cálculos avançados das diagonais, identificação de matriz identidade, estatísticas adicionais e opções de entrada manual, aleatória ou predefinida.
+Programa em C# (Console Application) para trabalhar com matrizes quadradas **NxN**, oferecendo cálculos avançados das diagonais, identificação de matriz identidade, estatísticas adicionais e opções de entrada manual, aleatória ou predefinida.
 
 ---
 
-#Funcionalidades
+**Funcionalidades**
 
 - **Entrada de matrizes**
   - Inserção manual (usuário digita cada elemento).
@@ -31,7 +31,7 @@ Programa em **C# (Console Application)** para trabalhar com matrizes quadradas *
 
 ---
 
-## Exemplo de Execução
+**Exemplo de Execução**
 
 ```
 
@@ -73,12 +73,12 @@ Elementos da Diagonal Secundária: \[3, 5, 7] → Soma = 15
 
 ---
 
-## 🛠Como Executar
+**Como Executar**
 
-### Pré-requisitos
+**Pré-requisitos**
 - [.NET 6.0 SDK ou superior](https://dotnet.microsoft.com/download)
 
-### Passos
+**Passos**
 1. Clone o repositório:
    ```bash
    git clone https://github.com/SEU-USUARIO/MatrizDiagonais.git
@@ -124,4 +124,4 @@ MatrizDiagonais/
 ## Autor
 
 Projeto desenvolvido por **Bernardo Martins** 
-Para fins de estudo e prática em **C# e lógica de programação**.
+Para fins de estudo e práctica em **C# e lógica de programação**.
